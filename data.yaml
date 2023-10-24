@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Ripe', 'Unripe', 'overripe', 'underripe']
+
+roboflow:
+  workspace: gerarldo-indra-v1q60
+  project: palm-oil-maturity
+  version: 3
+  license: Public Domain
+  url: https://universe.roboflow.com/gerarldo-indra-v1q60/palm-oil-maturity/dataset/3

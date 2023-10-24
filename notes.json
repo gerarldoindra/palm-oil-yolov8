@@ -1,0 +1,25 @@
+{
+    "categories": [
+      {
+        "id": 0,
+        "name": "Ripe"
+      },
+      {
+        "id": 1,
+        "name": "Unripe"
+      },
+      {
+        "id": 2,
+        "name": "overripe"
+      },
+      {
+        "id": 3,
+        "name": "underripe"
+      }
+    ],
+    "info": {
+      "year": 2023,
+      "version": "1.0",
+      "contributor": "gerarldo"
+    }
+  }
